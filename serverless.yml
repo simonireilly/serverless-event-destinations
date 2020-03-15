@@ -1,6 +1,6 @@
 # Remove or replace the app/org with your values
 # https://serverless.com/framework/docs/dashboard/ 
-org: fernando
+org: simonireilly+cloudguru+user
 app: destinations
 service: local-function-destinations
 
